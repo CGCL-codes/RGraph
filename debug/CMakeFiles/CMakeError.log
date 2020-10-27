@@ -1,0 +1,16 @@
+Performing C++ SOURCE FILE Test HAS_CRC32 failed with the following output:
+Change Dir: /home/jiangzhihao3/PGwithRDMA/debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/gmake" "cmTC_25b43/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_25b43.dir/build.make CMakeFiles/cmTC_25b43.dir/build
+gmake[1]: Entering directory `/home/jiangzhihao3/PGwithRDMA/debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_25b43.dir/src.cxx.o
+/usr/bin/c++    -std=c++11  -DHAS_CRC32 -O3 -Wno-unused-local-typedefs -Wno-attributes -march=native -mtune=native  -Wall -g  -fopenmp   -o CMakeFiles/cmTC_25b43.dir/src.cxx.o -c /home/jiangzhihao3/PGwithRDMA/debug/CMakeFiles/CMakeTmp/src.cxx
+cc1plus: error: unrecognized command line option "-std=c++11"
+cc1plus: warning: unrecognized command line option "-Wno-unused-local-typedefs"
+gmake[1]: *** [CMakeFiles/cmTC_25b43.dir/src.cxx.o] Error 1
+gmake[1]: Leaving directory `/home/jiangzhihao3/PGwithRDMA/debug/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_25b43/fast] Error 2
+
+Source file was:
+int main(int argc, char** argv) { return __builtin_ia32_crc32di(0,0);}

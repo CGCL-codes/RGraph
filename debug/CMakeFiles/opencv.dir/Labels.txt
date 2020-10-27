@@ -1,0 +1,13 @@
+# Target labels
+ opencv
+# Source files and their labels
+/home/jiangzhihao3/PGwithRDMA/debug/CMakeFiles/opencv
+/home/jiangzhihao3/PGwithRDMA/debug/CMakeFiles/opencv.rule
+/home/jiangzhihao3/PGwithRDMA/debug/CMakeFiles/opencv-complete.rule
+/home/jiangzhihao3/PGwithRDMA/deps/opencv/src/opencv-stamp/opencv-install.rule
+/home/jiangzhihao3/PGwithRDMA/deps/opencv/src/opencv-stamp/opencv-mkdir.rule
+/home/jiangzhihao3/PGwithRDMA/deps/opencv/src/opencv-stamp/opencv-download.rule
+/home/jiangzhihao3/PGwithRDMA/deps/opencv/src/opencv-stamp/opencv-update.rule
+/home/jiangzhihao3/PGwithRDMA/deps/opencv/src/opencv-stamp/opencv-patch.rule
+/home/jiangzhihao3/PGwithRDMA/deps/opencv/src/opencv-stamp/opencv-configure.rule
+/home/jiangzhihao3/PGwithRDMA/deps/opencv/src/opencv-stamp/opencv-build.rule

@@ -1,0 +1,17 @@
+564a565
+>   if(APPLE)
+571c572
+<     INSTALL_NAME_DIR lib
+---
+>     INSTALL_NAME_DIR "@rpath"
+573c574,581
+< 
+---
+>   else()
+>   set_target_properties(${the_module} PROPERTIES
+>     OUTPUT_NAME "${the_module}${OPENCV_DLLVERSION}"
+>     DEBUG_POSTFIX "${OPENCV_DEBUG_POSTFIX}"
+>     ARCHIVE_OUTPUT_DIRECTORY ${LIBRARY_OUTPUT_PATH}
+>     RUNTIME_OUTPUT_DIRECTORY ${EXECUTABLE_OUTPUT_PATH}
+>     INSTALL_NAME_DIR lib)
+>  endif()

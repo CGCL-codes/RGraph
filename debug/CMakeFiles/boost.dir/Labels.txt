@@ -1,0 +1,13 @@
+# Target labels
+ boost
+# Source files and their labels
+/home/jiangzhihao3/PGwithRDMA/debug/CMakeFiles/boost
+/home/jiangzhihao3/PGwithRDMA/debug/CMakeFiles/boost.rule
+/home/jiangzhihao3/PGwithRDMA/debug/CMakeFiles/boost-complete.rule
+/home/jiangzhihao3/PGwithRDMA/deps/boost/src/boost-stamp/boost-install.rule
+/home/jiangzhihao3/PGwithRDMA/deps/boost/src/boost-stamp/boost-mkdir.rule
+/home/jiangzhihao3/PGwithRDMA/deps/boost/src/boost-stamp/boost-download.rule
+/home/jiangzhihao3/PGwithRDMA/deps/boost/src/boost-stamp/boost-update.rule
+/home/jiangzhihao3/PGwithRDMA/deps/boost/src/boost-stamp/boost-patch.rule
+/home/jiangzhihao3/PGwithRDMA/deps/boost/src/boost-stamp/boost-configure.rule
+/home/jiangzhihao3/PGwithRDMA/deps/boost/src/boost-stamp/boost-build.rule

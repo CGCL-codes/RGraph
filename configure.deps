@@ -1,0 +1,28 @@
+# Release build directory:
+	 RELEASE_DIR=release
+# Debug build directory (optimization disabled):
+	 DEBUG_DIR=debug
+# Directory in which graphlab is installed (prefix):
+	 INSTALL_DIR=/usr/local
+# Is experimental (research) code enabled:
+	 EXPERIMENTAL=false
+# The graphlab home directory: 
+	 GRAPHLAB_HOME=/e/software/gcc/projects/PGwithRDMA
+# The directory in which graphlab installs external dependencies:
+	 DEPS_PREFIX=/e/software/gcc/projects/PGwithRDMA/deps/local
+# Use OpenMP?  This can accelerate some graph building code: 
+	 NO_OPENMP=false
+# Use MPI?  Without MPI GraphLab cannot run distributed: 
+	 NO_MPI=false
+# Use tcmalloc?  Thread-Caching Malloc improves memory allocation: 
+	 NO_TCMALLOC=false
+# The c compiler to use: 
+	 CC=E:\software\gcc\MinGWin\gcc.exe
+# The c++ compiler to use: 
+	 CXX=E:\software\gcc\MinGWin\g++.exe
+# Any addition user defined CFLAGS: 
+	 CFLAGS=
+# The Java compiler: 
+	 JAVAC=
+# The cmake binary used to geneate the project:
+	 CMAKE=cmake

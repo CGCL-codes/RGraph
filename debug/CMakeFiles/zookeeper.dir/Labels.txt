@@ -1,0 +1,13 @@
+# Target labels
+ zookeeper
+# Source files and their labels
+/home/jiangzhihao3/PGwithRDMA/debug/CMakeFiles/zookeeper
+/home/jiangzhihao3/PGwithRDMA/debug/CMakeFiles/zookeeper.rule
+/home/jiangzhihao3/PGwithRDMA/debug/CMakeFiles/zookeeper-complete.rule
+/home/jiangzhihao3/PGwithRDMA/deps/zookeeper/src/zookeeper-stamp/zookeeper-install.rule
+/home/jiangzhihao3/PGwithRDMA/deps/zookeeper/src/zookeeper-stamp/zookeeper-mkdir.rule
+/home/jiangzhihao3/PGwithRDMA/deps/zookeeper/src/zookeeper-stamp/zookeeper-download.rule
+/home/jiangzhihao3/PGwithRDMA/deps/zookeeper/src/zookeeper-stamp/zookeeper-update.rule
+/home/jiangzhihao3/PGwithRDMA/deps/zookeeper/src/zookeeper-stamp/zookeeper-patch.rule
+/home/jiangzhihao3/PGwithRDMA/deps/zookeeper/src/zookeeper-stamp/zookeeper-configure.rule
+/home/jiangzhihao3/PGwithRDMA/deps/zookeeper/src/zookeeper-stamp/zookeeper-build.rule

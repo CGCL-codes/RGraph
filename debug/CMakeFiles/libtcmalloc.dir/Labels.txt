@@ -1,0 +1,13 @@
+# Target labels
+ libtcmalloc
+# Source files and their labels
+/home/jiangzhihao3/PGwithRDMA/debug/CMakeFiles/libtcmalloc
+/home/jiangzhihao3/PGwithRDMA/debug/CMakeFiles/libtcmalloc.rule
+/home/jiangzhihao3/PGwithRDMA/debug/CMakeFiles/libtcmalloc-complete.rule
+/home/jiangzhihao3/PGwithRDMA/deps/tcmalloc/src/libtcmalloc-stamp/libtcmalloc-install.rule
+/home/jiangzhihao3/PGwithRDMA/deps/tcmalloc/src/libtcmalloc-stamp/libtcmalloc-mkdir.rule
+/home/jiangzhihao3/PGwithRDMA/deps/tcmalloc/src/libtcmalloc-stamp/libtcmalloc-download.rule
+/home/jiangzhihao3/PGwithRDMA/deps/tcmalloc/src/libtcmalloc-stamp/libtcmalloc-update.rule
+/home/jiangzhihao3/PGwithRDMA/deps/tcmalloc/src/libtcmalloc-stamp/libtcmalloc-patch.rule
+/home/jiangzhihao3/PGwithRDMA/deps/tcmalloc/src/libtcmalloc-stamp/libtcmalloc-configure.rule
+/home/jiangzhihao3/PGwithRDMA/deps/tcmalloc/src/libtcmalloc-stamp/libtcmalloc-build.rule

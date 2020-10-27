@@ -1,0 +1,45 @@
+/**
+
+\page toolkits GraphLab Toolkits
+
+
+To enable users to use GraphLab out-of-the-box and to demonstrate the
+power of the GraphLab API we have implemented a collection of
+applications to address a wide range of standard tasks in large-scale
+graph computation.  
+
+We have implemented the following toolkits
+
+\li \subpage topic_modeling  contains applications like LDA which can be
+used to cluster documents and extract topical representations.
+
+\li \subpage graph_algorithms contains algorithms mostly from the Social Network Analysis Handbook algorithms set.
+
+\li \subpage graph_analytics contains application like pagerank and
+triangle counting which can be applied to general graphs to estimate
+community structure.
+
+\li \subpage clustering contains standard data clustering tools such as 
+Kmeans
+
+\li \subpage collaborative_filtering contains a collection of
+applications used to make predictions about users interests and
+factorize large matrices.
+
+\li \subpage graphical_models contains tools for making joint predictions
+about collections of related random variables.
+
+\li \subpage factor_graphs contains Belief Propagation impelementation for
+factor graphs
+
+\li \subpage linear_solvers contains solvers for linear systems of equations - currently the Jacobi algorithm is implemented
+
+\li \subpage computer_vision contains a collection of tools for
+reasoning about images.
+
+
+
+
+
+
+*/

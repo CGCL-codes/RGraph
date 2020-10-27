@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/debug/CMakeFiles/boost"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/debug/CMakeFiles/boost.rule"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/debug/CMakeFiles/boost-complete.rule"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/deps/boost/src/boost-stamp/boost-install.rule"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/deps/boost/src/boost-stamp/boost-mkdir.rule"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/deps/boost/src/boost-stamp/boost-download.rule"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/deps/boost/src/boost-stamp/boost-update.rule"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/deps/boost/src/boost-stamp/boost-patch.rule"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/deps/boost/src/boost-stamp/boost-configure.rule"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/deps/boost/src/boost-stamp/boost-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"boost"
+		],
+		"name" : "boost"
+	}
+}

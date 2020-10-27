@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/debug/CMakeFiles/opencv"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/debug/CMakeFiles/opencv.rule"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/debug/CMakeFiles/opencv-complete.rule"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/deps/opencv/src/opencv-stamp/opencv-install.rule"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/deps/opencv/src/opencv-stamp/opencv-mkdir.rule"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/deps/opencv/src/opencv-stamp/opencv-download.rule"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/deps/opencv/src/opencv-stamp/opencv-update.rule"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/deps/opencv/src/opencv-stamp/opencv-patch.rule"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/deps/opencv/src/opencv-stamp/opencv-configure.rule"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/deps/opencv/src/opencv-stamp/opencv-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"opencv"
+		],
+		"name" : "opencv"
+	}
+}

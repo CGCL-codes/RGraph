@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/debug/CMakeFiles/libtcmalloc"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/debug/CMakeFiles/libtcmalloc.rule"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/debug/CMakeFiles/libtcmalloc-complete.rule"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/deps/tcmalloc/src/libtcmalloc-stamp/libtcmalloc-install.rule"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/deps/tcmalloc/src/libtcmalloc-stamp/libtcmalloc-mkdir.rule"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/deps/tcmalloc/src/libtcmalloc-stamp/libtcmalloc-download.rule"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/deps/tcmalloc/src/libtcmalloc-stamp/libtcmalloc-update.rule"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/deps/tcmalloc/src/libtcmalloc-stamp/libtcmalloc-patch.rule"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/deps/tcmalloc/src/libtcmalloc-stamp/libtcmalloc-configure.rule"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/deps/tcmalloc/src/libtcmalloc-stamp/libtcmalloc-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"libtcmalloc"
+		],
+		"name" : "libtcmalloc"
+	}
+}

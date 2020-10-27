@@ -1,0 +1,13 @@
+# Target labels
+ libbz2
+# Source files and their labels
+/home/jiangzhihao3/PGwithRDMA/debug/CMakeFiles/libbz2
+/home/jiangzhihao3/PGwithRDMA/debug/CMakeFiles/libbz2.rule
+/home/jiangzhihao3/PGwithRDMA/debug/CMakeFiles/libbz2-complete.rule
+/home/jiangzhihao3/PGwithRDMA/deps/libbz2/src/libbz2-stamp/libbz2-install.rule
+/home/jiangzhihao3/PGwithRDMA/deps/libbz2/src/libbz2-stamp/libbz2-mkdir.rule
+/home/jiangzhihao3/PGwithRDMA/deps/libbz2/src/libbz2-stamp/libbz2-download.rule
+/home/jiangzhihao3/PGwithRDMA/deps/libbz2/src/libbz2-stamp/libbz2-update.rule
+/home/jiangzhihao3/PGwithRDMA/deps/libbz2/src/libbz2-stamp/libbz2-patch.rule
+/home/jiangzhihao3/PGwithRDMA/deps/libbz2/src/libbz2-stamp/libbz2-configure.rule
+/home/jiangzhihao3/PGwithRDMA/deps/libbz2/src/libbz2-stamp/libbz2-build.rule

@@ -1,0 +1,13 @@
+# Target labels
+ libevent
+# Source files and their labels
+/home/jiangzhihao3/PGwithRDMA/debug/CMakeFiles/libevent
+/home/jiangzhihao3/PGwithRDMA/debug/CMakeFiles/libevent.rule
+/home/jiangzhihao3/PGwithRDMA/debug/CMakeFiles/libevent-complete.rule
+/home/jiangzhihao3/PGwithRDMA/deps/event/src/libevent-stamp/libevent-install.rule
+/home/jiangzhihao3/PGwithRDMA/deps/event/src/libevent-stamp/libevent-mkdir.rule
+/home/jiangzhihao3/PGwithRDMA/deps/event/src/libevent-stamp/libevent-download.rule
+/home/jiangzhihao3/PGwithRDMA/deps/event/src/libevent-stamp/libevent-update.rule
+/home/jiangzhihao3/PGwithRDMA/deps/event/src/libevent-stamp/libevent-patch.rule
+/home/jiangzhihao3/PGwithRDMA/deps/event/src/libevent-stamp/libevent-configure.rule
+/home/jiangzhihao3/PGwithRDMA/deps/event/src/libevent-stamp/libevent-build.rule

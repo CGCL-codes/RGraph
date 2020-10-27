@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/debug/CMakeFiles/zookeeper"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/debug/CMakeFiles/zookeeper.rule"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/debug/CMakeFiles/zookeeper-complete.rule"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/deps/zookeeper/src/zookeeper-stamp/zookeeper-install.rule"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/deps/zookeeper/src/zookeeper-stamp/zookeeper-mkdir.rule"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/deps/zookeeper/src/zookeeper-stamp/zookeeper-download.rule"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/deps/zookeeper/src/zookeeper-stamp/zookeeper-update.rule"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/deps/zookeeper/src/zookeeper-stamp/zookeeper-patch.rule"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/deps/zookeeper/src/zookeeper-stamp/zookeeper-configure.rule"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/deps/zookeeper/src/zookeeper-stamp/zookeeper-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"zookeeper"
+		],
+		"name" : "zookeeper"
+	}
+}

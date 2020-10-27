@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/debug/CMakeFiles/libbz2"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/debug/CMakeFiles/libbz2.rule"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/debug/CMakeFiles/libbz2-complete.rule"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/deps/libbz2/src/libbz2-stamp/libbz2-install.rule"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/deps/libbz2/src/libbz2-stamp/libbz2-mkdir.rule"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/deps/libbz2/src/libbz2-stamp/libbz2-download.rule"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/deps/libbz2/src/libbz2-stamp/libbz2-update.rule"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/deps/libbz2/src/libbz2-stamp/libbz2-patch.rule"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/deps/libbz2/src/libbz2-stamp/libbz2-configure.rule"
+		},
+		{
+			"file" : "/home/jiangzhihao3/PGwithRDMA/deps/libbz2/src/libbz2-stamp/libbz2-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"libbz2"
+		],
+		"name" : "libbz2"
+	}
+}
