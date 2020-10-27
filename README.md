@@ -1,5 +1,5 @@
 # RGraph
-RGraph ia an RDMA-assisted asynchronous distributed graph processing system. RGraph dis-tributes edges into two parts to isolate master and mirror vertices. RGraph exploits theasymmetry of RDMA to accelerate the one-to-many communication between mas-ter and mirror vertices. 
+RGraph is an RDMA-assisted asynchronous distributed graph processing system. RGraph distributes edges into two parts to isolate master and mirror vertices. RGraph exploits theasymmetry of RDMA to accelerate the one-to-many communication between mas-ter and mirror vertices. 
 
 ## Introduction
 Graphs can present connections between entities and thus are adopted in many scenarios. For example, Google organizes links between network pages as a graph and analyzes it to determine which pages are of most interest to users; Twitter denotes interconnections between users as a social graph and processes it for followee recommendation. To exploit the information inside a graph, graph processing has attracted increasingly attention. As real-world graphs become more and more large and complex, a single machine cannot support efficient graph processing. 
